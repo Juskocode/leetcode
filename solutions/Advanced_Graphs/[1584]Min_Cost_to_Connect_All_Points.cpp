@@ -1,4 +1,8 @@
 #define pii pair<int, int>
+//O(V + E) Prim's algo greedly picks the min cost edge that connects from the current vertex, if the dest is not yet visited
+// this problem can also be solved using Kruskal's algo
+// O(V + E) this is also a greedy algorithm, we also pick the least cost edge, but from the entire graph, 
+// we only check we are forming a cycle by adding the edge, this is almost the same as Prim's
 class Solution {
 public:
     int minCostConnectPoints(vector<vector<int>>& points) {
