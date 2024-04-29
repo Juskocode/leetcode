@@ -1,7 +1,7 @@
 # LeetCode Problem Solving Repository 🚀
 
 Welcome to my LeetCode problem-solving repository! This repository is dedicated to enhancing my problem-solving skills and mastering Data Structures and Algorithms (DSA) through solving various LeetCode problems. Here, you'll find solutions to a wide range of algorithmic challenges along with explanations and insights into the problem-solving process.
-
+One problem a day to keep the doctor away lol
 ## Objective 💡
 
 The primary objective of this repository is to:
