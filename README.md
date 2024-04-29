@@ -42,9 +42,9 @@ Here's a table showcasing the problems I've currently solved:
 
 Track my progress through this section:
 
-- Total Problems Solved: 3
-- Current Streak: 1
-- Longest Streak: 3
+- Total Problems Solved: 105
+- Current Streak: 10
+- Longest Streak: 15
 
 ## How to Contribute 🤝
 
