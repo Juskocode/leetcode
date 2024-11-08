@@ -1,0 +1,36 @@
+# Problem 2877: Create a DataFrame from List
+
+### Difficulty: Easy
+### Status: Solved
+### Category: Data Manipulation
+### Companies: Various
+
+---
+
+## Problem Description
+
+Write a solution to create a DataFrame from a 2D list called `student_data`. This 2D list contains the IDs and ages of some students.
+
+The resulting DataFrame should have two columns: `student_id` and `age`. The data should be in the same order as provided in the original 2D list.
+
+### Input
+
+A 2D list called `student_data`, where each element is a list with two items:
+- `student_id` (integer): The ID of a student.
+- `age` (integer): The age of the student.
+
+### Output
+
+A DataFrame with two columns:
+- `student_id`
+- `age`
+
+The order of data should match the input list.
+
+### Example
+
+```python
+student_data = [
+    [101, 21],
+    [102, 22],
+
