@@ -1,0 +1,26 @@
+class Solution {
+public:
+    unordered_map<string, vector<string>> g;
+    vector<string> path;
+    void dfs(const string & airport)
+    {
+        while (!g[airport].empty())
+        {
+            string next = g[airport].back();
+            g[airport].pop_back();
+            dfs(next);
+        }
+        path.push_back(airport);
+    }
+    vector<string> findItinerary(vector<vector<string>>& tickets) {
+        for (auto& ticket : tickets)
+            g[ticket[0]].push_back(ticket[1]);
+        
+        for (auto& [srcs, dests] : g)
+            sort(dests.rbegin(), dests.rend());
+        
+        dfs("JFK");
+        reverse(path.begin(), path.end());
+        return path;
+    }
+};
