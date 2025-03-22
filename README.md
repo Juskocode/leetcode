@@ -69,6 +69,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Juskocode/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Juskocode/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Juskocode/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1830-count-good-meals](https://github.com/Juskocode/leetcode/tree/master/1830-count-good-meals) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Juskocode/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -147,4 +148,8 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/Juskocode/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Juskocode/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
