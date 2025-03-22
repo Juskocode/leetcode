@@ -110,6 +110,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Juskocode/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2793-count-the-number-of-complete-components](https://github.com/Juskocode/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
@@ -130,4 +131,16 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Juskocode/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Depth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/Juskocode/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/Juskocode/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+## Union Find
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/Juskocode/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
