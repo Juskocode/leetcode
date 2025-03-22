@@ -1,18 +1,23 @@
 class Solution {
 public:
-    int countPairs(vector<int>& v) 
-    {
-        int mod = 1e9 + 7;
-        long res = 0, n = v.size();
-        unordered_map<int, int> mp;
+    int countPairs(vector<int>& d) {
 
-        for (int val : v)
+        std::sort(d.begin(), d.end()); // O(n * log n)
+
+        int ans = 0;
+        const int M = int(1e9) + 7;
+        std::unordered_map<int, int> cnt;
+
+        for(int x : d)
         {
-            for (int p = 1; p <= (1 << 21); p<<=1)
-                if (mp.count(p - val)) 
-                    res += mp[p - val];
-            mp[val]++;
+            for(int i = 1; i <= 2 * x; i *= 2)
+            {
+                int a = i - x;
+                ans = (ans % M + cnt[a] % M) % M;
+            }
+            cnt[x]++;
         }
-        return res % (int) mod;
+        
+        return ans;
     }
 };
