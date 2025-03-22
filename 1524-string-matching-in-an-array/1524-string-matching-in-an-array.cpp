@@ -14,18 +14,20 @@ public:
     }
 
     vector<string> stringMatching(vector<string>& words) {
-        set<string> m;
+        vector<string> m;
 
         for (int i = 0 ; i < words.size(); i++)
         {
-            for (int j = i + 1; j < words.size(); j++)
+            for (int j = 0; j < words.size(); j++)
             {
-                if (isSubstring((words[i].size() < words[j].size()) ? words[i] : words[j],
-                     (words[i].size() >= words[j].size()) ? words[i] : words[j]))
-                    m.insert((words[i].size() < words[j].size()) ? words[i] : words[j]);
+                if (i == j) continue;
+                if (words[j].find(words[i])!=-1)
+                {
+                    m.push_back(words[i]);
+                    break;
+                }
             }
         }
-        vector<string> res(m.begin(), m.end());
-        return res;
+        return m;
     }
 };
