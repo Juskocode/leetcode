@@ -8,7 +8,7 @@ public:
 
         for (int val : v)
         {
-            for (int p = 1; p <= (1 << 22); p<<=1)
+            for (int p = 1; p <= (1 << 21); p<<=1)
                 if (mp.count(p - val)) 
                     res += mp[p - val];
             mp[val]++;
