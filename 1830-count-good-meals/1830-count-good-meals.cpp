@@ -1,24 +1,47 @@
+
 class Solution {
 public:
-    int mod = (7+1e9);
-    int countPairs(vector<int>& array) {
-        int n=array.size();
-        unordered_map<int, int> mpp;
-        long int count=0;
-        
-        for(int i=0; i<n; i++){
-            mpp[array[i]]++;
-            
-            //For every element try & find the element if present such that the sum will be power of two.
-            //Constraints: max value = 2^20 & taking sum of two elements of max value: 2*2^20
-            //Check if there's present (2^0 - array[i]) or (2^1 - array[i]) or ... (2^21 - array[i])
-            for(int x=0; x<=21; x++){
-                mpp[array[i]]--;    //Do not count the current element again. Example: 2+2
-                if(mpp.find((1<<x) - array[i])!=mpp.end()) count += mpp[((1<<x) - array[i])];
-                mpp[array[i]]++;    //Reset.
+    int countPairs(vector<int>& deliciousness) {
+        map<int, long long> meals;
+        set<int> powerOfTwo;
+		
+		//Power_array to store power of 2
+        for(int i = 0; i <= 21; i++) {
+            powerOfTwo.insert(1<<i);
+        }
+        long long res = 0;
+		
+		//store meals with there count 
+        for(int num : deliciousness) {
+            meals[num]++;
+        }
+
+		//for each meal we will check if there exist any other meal that sums to good meal.
+        for(auto meal : meals) {
+		
+		// Loop from lower bound of square value of meal till end 
+		// example if  meal 4 then we will search lower bound of 16 in our stored power array.
+            for(auto num = powerOfTwo.lower_bound(meal.first<<1); num != powerOfTwo.end(); num++) {
+			
+				// checking lower bound of *num - meal.first exist in meals.
+				//example : num = 16 , meal.first = 1 then we will check for 15
+                auto it = meals.lower_bound(*num - meal.first);
+                if(it == meals.end())
+				//if not found break
+                    break;
+					
+				// if we found the number we are searching  i.e  15(it.first) + 1(meal.first) == 16(num) then we will calculate the result
+                if(it->first + meal.first == *num) {
+				
+					// to calculate ways  
+                    if(it->first == meal.first)
+                        res += it->second * (meal.second - 1) / 2;
+                    else
+                        res += it->second * meal.second;
+                }
             }
         }
-        
-        return (count%mod);
+
+        return res % 1000000007;
     }
 };
