@@ -1,33 +1,53 @@
 class Solution {
 public:
-    bool isSubstring(const string &a, const string &b)
-    {
-        for (int i = 0; i < b.size(); i++)
-        {
-            int j = 0;
-            while (b[i + j] == a[j] && j < a.size() && (i + j) < b.size())
-                j++;
-            if (j == a.size())
-                return true;
-        }
-        return false;
-    }
-
     vector<string> stringMatching(vector<string>& words) {
-        vector<string> m;
+        vector<string> matchingWords;
+        TrieNode* root = new TrieNode();
 
-        for (int i = 0 ; i < words.size(); i++)
-        {
-            for (int j = 0; j < words.size(); j++)
-            {
-                if (i == j) continue;
-                if (words[j].find(words[i])!=-1)
-                {
-                    m.push_back(words[i]);
-                    break;
-                }
+
+        for (const auto& word : words) {
+            for (int startIndex = 0; startIndex < word.size(); startIndex++) {
+                insertWord(root, word.substr(startIndex));
             }
         }
-        return m;
+
+        for (auto word : words) {
+            if (isSubstring(root, word)) {
+                matchingWords.push_back(word);
+            }
+        }
+
+        return matchingWords;
+    }
+
+private:
+    class TrieNode {
+    public:
+        int frequency;
+        unordered_map<char, TrieNode*> childNodes;
+    };
+
+    void insertWord(TrieNode* root, const string& word) {
+        TrieNode* currentNode = root;
+        for (char c : word) {
+            if (currentNode->childNodes.find(c) !=
+                currentNode->childNodes.end()) {
+                currentNode = currentNode->childNodes[c];
+                currentNode->frequency++;
+            } else {
+                TrieNode* newNode = new TrieNode();
+                newNode->frequency = 1;
+                currentNode->childNodes[c] = newNode;
+                currentNode = newNode;
+            }
+        }
+    }
+
+    bool isSubstring(TrieNode* root, string& word) {
+        TrieNode* currentNode = root;
+        for (char c : word) {
+            currentNode = currentNode->childNodes[c];
+        }
+        return currentNode->frequency > 1;
     }
 };
