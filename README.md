@@ -80,6 +80,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [2292-counting-words-with-a-given-prefix](https://github.com/Juskocode/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Juskocode/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Juskocode/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Juskocode/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Juskocode/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Juskocode/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Juskocode/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -110,6 +111,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Juskocode/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Juskocode/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Juskocode/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Juskocode/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Counting
 |  |
 | ------- |
@@ -142,6 +144,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [1798-max-number-of-k-sum-pairs](https://github.com/Juskocode/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Juskocode/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Juskocode/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Juskocode/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/Juskocode/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Juskocode/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Binary Search
