@@ -17,7 +17,6 @@ public:
                 elem = nums[i];
             }
             max_freq = max(curr_freq, max_freq);
-            cout << curr_freq << " " << max_freq << " " << elem << endl;
         }
         return elem;
     }
