@@ -1,37 +1,35 @@
 class Solution {
 public:
     int minimumIndex(vector<int>& nums) {
-        // Find the majority element
-        int x = nums[0], count = 0, xCount = 0, n = nums.size();
-        for (auto& num : nums) {
-            if (num == x) {
-                count++;
-            } else {
-                count--;
-            }
-            if (count == 0) {
-                x = num;
-                count = 1;
+        int elem = nums[0], curr_freq = 0;
+
+        for (int i = 0; i < nums.size(); i++)
+        {
+            if (nums[i] != elem)
+                curr_freq--;
+            else
+                curr_freq++;
+            if (curr_freq == 0)
+            {
+                curr_freq = 1;
+                elem = nums[i];
             }
         }
 
-        // Count frequency of majority element
-        for (auto& num : nums) {
-            if (num == x) {
-                xCount++;
-            }
-        }
-
-        // Check if valid split is possible
-        count = 0;
-        for (int index = 0; index < n; index++) {
-            if (nums[index] == x) {
-                count++;
-            }
-            int remainingCount = xCount - count;
-            if (count * 2 > index + 1 && remainingCount * 2 > n - index - 1) {
-                return index;
-            }
+        int freq = 0;
+        for (const auto & val : nums)
+            if (val == elem)
+                freq++;
+        
+        int left = 0;
+        for (int i = 0; i < nums.size(); i++)
+        {
+            if (nums[i] == elem)
+                left++;
+            int right = freq - left;
+            //if left and right are > 50 % "elem" return index
+            if (left * 2 > i + 1 && right * 2 > nums.size() - i - 1)
+                return i;
         }
         return -1;
     }
