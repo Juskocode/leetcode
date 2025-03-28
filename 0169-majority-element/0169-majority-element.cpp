@@ -1,11 +1,10 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
 
-        int max_freq = 1, elem = nums[0], curr_freq = 1;
+        int elem = nums[0], curr_freq = 0;
 
-        for (int i = 1; i < nums.size(); i++)
+        for (int i = 0; i < nums.size(); i++)
         {
             if (nums[i] != elem)
                 curr_freq--;
@@ -13,10 +12,9 @@ public:
                 curr_freq++;
             if (curr_freq == 0)
             {
-                curr_freq = max_freq;
+                curr_freq = 1;
                 elem = nums[i];
             }
-            max_freq = max(curr_freq, max_freq);
         }
         return elem;
     }
