@@ -120,6 +120,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Juskocode/leetcode/tree/master/0415-add-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Juskocode/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Juskocode/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Juskocode/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -171,6 +172,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Juskocode/leetcode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Juskocode/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Juskocode/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Juskocode/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -183,4 +185,8 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Juskocode/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Juskocode/leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
