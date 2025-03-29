@@ -16,12 +16,11 @@ public:
             for (int j = 0; j < b.size(); j++)
             {
                 int d2 = b[j] - '0';
-                int idx = i + j;
-                int carry = res[idx] - '0';
+                int carry = res[i + j] - '0';
                 int mul = d1 * d2 + carry;
 
-                res[idx] = (mul % 10) + '0';
-                res[idx + 1] += (mul / 10);
+                res[i + j] = (mul % 10) + '0';
+                res[i + j + 1] += (mul / 10);
             }
         }
         if (res.back() == '0')
