@@ -249,4 +249,8 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Juskocode/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Juskocode/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
