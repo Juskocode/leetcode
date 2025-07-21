@@ -254,6 +254,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | ------- |
 | [0584-find-customer-referee](https://github.com/Juskocode/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Juskocode/leetcode/tree/master/0595-big-countries) |
+| [1153-product-sales-analysis-i](https://github.com/Juskocode/leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Juskocode/leetcode/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Juskocode/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Juskocode/leetcode/tree/master/1827-invalid-tweets) |
