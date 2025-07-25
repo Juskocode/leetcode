@@ -252,6 +252,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Juskocode/leetcode/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/Juskocode/leetcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Juskocode/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Juskocode/leetcode/tree/master/0577-employee-bonus) |
