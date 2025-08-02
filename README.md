@@ -202,6 +202,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Juskocode/leetcode/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/Juskocode/leetcode/tree/master/0062-unique-paths) |
 | [0415-add-strings](https://github.com/Juskocode/leetcode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Juskocode/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Juskocode/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -245,6 +246,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Juskocode/leetcode/tree/master/0062-unique-paths) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Juskocode/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
 |  |
@@ -295,4 +297,8 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [2087-confirmation-rate](https://github.com/Juskocode/leetcode/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Juskocode/leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Juskocode/leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Juskocode/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
