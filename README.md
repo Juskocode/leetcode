@@ -73,6 +73,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0134-gas-station](https://github.com/Juskocode/leetcode/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Juskocode/leetcode/tree/master/0169-majority-element) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Juskocode/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0739-daily-temperatures](https://github.com/Juskocode/leetcode/tree/master/0739-daily-temperatures) |
 | [0876-hand-of-straights](https://github.com/Juskocode/leetcode/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Juskocode/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/Juskocode/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -310,6 +311,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Juskocode/leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Juskocode/leetcode/tree/master/0937-online-stock-span) |
 ## Design
 |  |
@@ -318,6 +320,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Juskocode/leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Juskocode/leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
