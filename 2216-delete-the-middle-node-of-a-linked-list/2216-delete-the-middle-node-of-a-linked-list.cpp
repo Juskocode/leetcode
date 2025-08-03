@@ -10,33 +10,29 @@
  */
 class Solution {
 public:
+    //Floid-Tortouse algo, fix for even lenght
     ListNode* deleteMiddle(ListNode* head) {
         if (!head->next)
         {
             head = nullptr;
-            free(head);
+            return head;
         }
-        unsigned size = 0;
         ListNode* curr = head;
-        while (curr)
-        {
-            size++;
-            curr = curr->next;
-        }
-        unsigned mid = size / 2;
         ListNode* prev = nullptr;
-        curr = head;
-        for (int i = 1; i <= mid; i++)
+        ListNode* fast = head;
+        while (fast->next && fast->next->next)
         {
             prev = curr;
             curr = curr->next;
-            if (i == mid)
-            {
-                prev->next = curr->next;
-                curr->next = nullptr;
-                return head;
-            }
+            fast = fast->next->next;
         }
+        if (fast->next)
+        {
+            prev = curr;
+            curr = curr->next;
+        }
+        prev->next = curr->next;
+        curr->next = nullptr;
         return head;
     }
 };
