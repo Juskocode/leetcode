@@ -30,7 +30,6 @@ public:
         {
             prev = curr;
             curr = curr->next;
-            cout << prev->val << " " << curr->val << endl; 
             if (i == mid)
             {
                 prev->next = curr->next;
