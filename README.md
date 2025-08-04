@@ -311,6 +311,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Linked List
 |  |
 | ------- |
+| [0328-odd-even-linked-list](https://github.com/Juskocode/leetcode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Juskocode/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
