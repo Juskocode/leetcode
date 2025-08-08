@@ -36,7 +36,7 @@ public:
     }
 
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
-        std::fill(std::begin(v), std::end(v), -1);
+        std::fill(v, v + 201, -1);
         k = 0; s = -1;
         dfs(root1);
         s = k;
