@@ -194,6 +194,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0803-cheapest-flights-within-k-stops](https://github.com/Juskocode/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0904-leaf-similar-trees](https://github.com/Juskocode/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Juskocode/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Juskocode/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Juskocode/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -203,6 +204,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0226-invert-binary-tree](https://github.com/Juskocode/leetcode/tree/master/0226-invert-binary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Juskocode/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Juskocode/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Juskocode/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Juskocode/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
@@ -240,6 +242,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0226-invert-binary-tree](https://github.com/Juskocode/leetcode/tree/master/0226-invert-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Juskocode/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Juskocode/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Juskocode/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -248,6 +251,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0226-invert-binary-tree](https://github.com/Juskocode/leetcode/tree/master/0226-invert-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Juskocode/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Juskocode/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Juskocode/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Greedy
 |  |
 | ------- |
