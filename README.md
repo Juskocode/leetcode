@@ -138,6 +138,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Juskocode/leetcode/tree/master/0043-multiply-strings) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Juskocode/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Juskocode/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Juskocode/leetcode/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/Juskocode/leetcode/tree/master/0415-add-strings) |
@@ -160,6 +161,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Juskocode/leetcode/tree/master/0075-sort-colors) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Juskocode/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Juskocode/leetcode/tree/master/0392-is-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Juskocode/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Juskocode/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
