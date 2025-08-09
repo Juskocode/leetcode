@@ -13,10 +13,8 @@ public:
                 l++;
             while (!isVowel(s[r]) && l <= r)
                 r--;
-            if (l <= r)
-                swap(s[l], s[r]);
-            l++;
-            r--;
+            if (l >= r) break;
+            swap(s[l++], s[r--]);
         }
         return s;
     }
