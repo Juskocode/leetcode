@@ -138,6 +138,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | ------- |
 | [0043-multiply-strings](https://github.com/Juskocode/leetcode/tree/master/0043-multiply-strings) |
 | [0392-is-subsequence](https://github.com/Juskocode/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Juskocode/leetcode/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/Juskocode/leetcode/tree/master/0415-add-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Juskocode/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Juskocode/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -321,6 +322,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Juskocode/leetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Juskocode/leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Juskocode/leetcode/tree/master/0937-online-stock-span) |
 ## Design
@@ -336,4 +338,8 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Juskocode/leetcode/tree/master/0937-online-stock-span) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Juskocode/leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
