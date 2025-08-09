@@ -2,7 +2,7 @@ class Solution {
 public:
     string reverseWords(string s) {
         string rev;
-        int i = s.size() - 1;  // signed!
+        int i = s.size() - 1;
 
         while (i >= 0) 
         {
