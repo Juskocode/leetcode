@@ -73,6 +73,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0134-gas-station](https://github.com/Juskocode/leetcode/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Juskocode/leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Juskocode/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/Juskocode/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Juskocode/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0605-can-place-flowers](https://github.com/Juskocode/leetcode/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/Juskocode/leetcode/tree/master/0739-daily-temperatures) |
@@ -263,6 +264,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Juskocode/leetcode/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/Juskocode/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Juskocode/leetcode/tree/master/0605-can-place-flowers) |
 | [0876-hand-of-straights](https://github.com/Juskocode/leetcode/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Juskocode/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
