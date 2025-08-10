@@ -115,6 +115,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Juskocode/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Juskocode/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Juskocode/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
@@ -153,6 +154,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0443-string-compression](https://github.com/Juskocode/leetcode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Juskocode/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Juskocode/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Juskocode/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Juskocode/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Juskocode/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3207-make-three-strings-equal](https://github.com/Juskocode/leetcode/tree/master/3207-make-three-strings-equal) |
