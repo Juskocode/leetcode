@@ -72,6 +72,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0075-sort-colors](https://github.com/Juskocode/leetcode/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/Juskocode/leetcode/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Juskocode/leetcode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/Juskocode/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Juskocode/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0605-can-place-flowers](https://github.com/Juskocode/leetcode/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/Juskocode/leetcode/tree/master/0739-daily-temperatures) |
@@ -113,6 +114,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Juskocode/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2249-count-the-hidden-sequences](https://github.com/Juskocode/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Juskocode/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
