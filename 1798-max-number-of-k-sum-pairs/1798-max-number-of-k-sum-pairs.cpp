@@ -7,7 +7,6 @@ public:
         while (l < r)
         {
             int cur = v[l] + v[r];
-            cout << l << " " << r << " " << v[l] << " " << v[r] << endl;
             if (cur == k)
             {
                 count++;
