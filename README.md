@@ -78,6 +78,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0334-increasing-triplet-subsequence](https://github.com/Juskocode/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Juskocode/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0605-can-place-flowers](https://github.com/Juskocode/leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Juskocode/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Juskocode/leetcode/tree/master/0739-daily-temperatures) |
 | [0876-hand-of-straights](https://github.com/Juskocode/leetcode/tree/master/0876-hand-of-straights) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Juskocode/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -113,6 +114,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Juskocode/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Juskocode/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
