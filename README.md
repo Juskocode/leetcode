@@ -342,6 +342,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Juskocode/leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Juskocode/leetcode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Juskocode/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -366,5 +367,6 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Juskocode/leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Juskocode/leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
