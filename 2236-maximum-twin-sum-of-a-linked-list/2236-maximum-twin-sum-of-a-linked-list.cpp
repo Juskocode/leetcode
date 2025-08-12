@@ -14,16 +14,12 @@ public:
     {
         unsigned maxS = 0, n = 0;
         ListNode* cur = head;
-        stack<unsigned> rev;
-        while (cur){rev.push(cur->val);cur = cur->next;n++;}
-        cur = head;
+        vector<unsigned> v;
+        while (cur){v.push_back(cur->val);cur = cur->next;}
+        n = v.size();
 
         for (int i = 0; i < n / 2; i++)
-        {
-            maxS = max(cur->val + rev.top(), maxS);
-            rev.pop();
-            cur = cur->next;
-        }
+            maxS = max(v[i] + v[n - i - 1], maxS);
         return maxS;
     }
 };
