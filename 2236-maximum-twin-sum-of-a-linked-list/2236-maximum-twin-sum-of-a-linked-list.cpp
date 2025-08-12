@@ -10,6 +10,9 @@
  */
 class Solution {
 public:
+    // Constant memory, but same TC would need to use fast and slow pointers
+    // get the middle reverse the list from the middle and compare
+    // it's at least 20 times slower...
     int pairSum(ListNode* head) 
     {
         unsigned maxS = 0, n = 0;
