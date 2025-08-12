@@ -18,7 +18,7 @@ public:
         while (cur){rev.push(cur->val);cur = cur->next;n++;}
         cur = head;
 
-        for (int i = 0; i < n / 2; i ++)
+        for (int i = 0; i < n / 2; i++)
         {
             maxS = max(cur->val + rev.top(), maxS);
             rev.pop();
