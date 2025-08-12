@@ -16,7 +16,7 @@ public:
             return nullptr;
         if (root->val == val)
             return root;
-        else if (root->val > val)
+        else if (root->val > val && root->left)
             return searchBST(root->left, val);
         return searchBST(root->right, val);
     }
