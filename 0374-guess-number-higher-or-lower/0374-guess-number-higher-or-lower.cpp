@@ -12,7 +12,7 @@ public:
     int guessNumber(int n) {
         if (!guess(n))
             return n;
-        else if (guess(n) == 1)
+        else if (guess(n) > 0)
             return guessNumber(n / 2 - 1);
         return guessNumber(n / 2 + 1);
     }
