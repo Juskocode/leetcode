@@ -1,13 +1,12 @@
 class Solution {
 public:
+    unsigned c = 0;
     void dfs(int v, vector<bool> &vis, vector<vector<int>>& rooms)
     {
-        vis[v] = true;
+        vis[v] = true;c++;
         for (const auto &u : rooms[v])
-        {
             if (!vis[u])
                 dfs(u, vis, rooms);
-        }
     }
 
     bool canVisitAllRooms(vector<vector<int>>& rooms) 
@@ -15,10 +14,6 @@ public:
         int n = rooms.size();
         vector<bool> vis(n);
         dfs(0, vis, rooms);
-
-        for (int i = 0; i < n; i++)
-            if (!vis[i])
-                return false;
-        return true;
+        return n == c;
     }
 };
