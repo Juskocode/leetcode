@@ -261,6 +261,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0415-add-strings](https://github.com/Juskocode/leetcode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Juskocode/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Juskocode/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1448-maximum-69-number](https://github.com/Juskocode/leetcode/tree/master/1448-maximum-69-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Juskocode/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Juskocode/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String Matching
@@ -313,6 +314,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0605-can-place-flowers](https://github.com/Juskocode/leetcode/tree/master/0605-can-place-flowers) |
 | [0876-hand-of-straights](https://github.com/Juskocode/leetcode/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Juskocode/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1448-maximum-69-number](https://github.com/Juskocode/leetcode/tree/master/1448-maximum-69-number) |
 | [2636-maximum-subsequence-score](https://github.com/Juskocode/leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Dynamic Programming
 |  |
