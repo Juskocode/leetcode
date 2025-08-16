@@ -1,49 +1,73 @@
-struct TrieNode
-{
-    TrieNode* next[26];
-    bool end = false;
-};
-
 class Trie {
+
+    struct node {
+        string val = "";
+        node* left = nullptr;
+        node* right = nullptr;
+    };
 private:
-    TrieNode* root;
+    node* root = nullptr;
+
 public:
-    
     Trie() {
-        root = new TrieNode();
+
     }
     
     void insert(string word) {
-        TrieNode* cur = root;
-        for (const auto &c : word)
-        {
-            if (!cur->next[c - 'a'])
-                cur->next[c - 'a'] = new TrieNode();
-            cur = cur->next[c - 'a'];
+        if (root == nullptr) {
+            root = new node(word, nullptr, nullptr);
         }
-        cur->end = true;
+
+        node* curr = root;
+        while (curr != nullptr) {
+            if (word < curr->val) {
+                if (curr->left == nullptr) {
+                    curr->left = new node(word, nullptr, nullptr);
+                    break;
+                } else {
+                    curr = curr->left;
+                }
+            } else if (word > curr->val) {
+                if (curr->right == nullptr) {
+                    curr->right = new node(word, nullptr, nullptr);
+                    break;
+                } else {
+                    curr = curr->right;
+                }
+            } else {
+                break;
+            }
+        }
     }
     
     bool search(string word) {
-        TrieNode* cur = root;
-        for (const auto &c : word)
-        {
-            if (!cur->next[c - 'a'])
-                return false;
-            cur = cur->next[c - 'a'];
+        node* curr = root;
+        while (curr != nullptr) {
+            if (word < curr->val) {
+                curr = curr->left;
+            } else if (word > curr->val) {
+                curr = curr->right;
+            } else {
+                return true;
+            }
         }
-        return cur->end;
+
+        return false;
     }
     
     bool startsWith(string prefix) {
-        TrieNode* cur = root;
-        for (const auto &c : prefix)
-        {
-            if (!cur->next[c - 'a'])
-                return false;
-            cur = cur->next[c - 'a'];
+        node* curr = root;
+        while (curr != nullptr) {
+            if (curr->val.substr(0, prefix.length()) == prefix) {
+                return true;
+            } else if (prefix < curr->val) {
+                curr = curr->left;
+            } else {
+                curr = curr->right;
+            }
         }
-        return true;
+
+        return false;
     }
 };
 
