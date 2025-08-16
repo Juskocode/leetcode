@@ -131,6 +131,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Juskocode/leetcode/tree/master/0169-majority-element) |
+| [0208-implement-trie-prefix-tree](https://github.com/Juskocode/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0876-hand-of-straights](https://github.com/Juskocode/leetcode/tree/master/0876-hand-of-straights) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Juskocode/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Juskocode/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -152,6 +153,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | ------- |
 | [0043-multiply-strings](https://github.com/Juskocode/leetcode/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Juskocode/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/Juskocode/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Juskocode/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Juskocode/leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Juskocode/leetcode/tree/master/0394-decode-string) |
@@ -387,6 +389,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Juskocode/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0937-online-stock-span](https://github.com/Juskocode/leetcode/tree/master/0937-online-stock-span) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Juskocode/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Monotonic Stack
@@ -419,4 +422,8 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Juskocode/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Juskocode/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
