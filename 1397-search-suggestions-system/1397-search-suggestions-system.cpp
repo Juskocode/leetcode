@@ -43,7 +43,7 @@ class Trie {
             return cur->end;
         }
 
-        vector<string> startsWithK(const string &prefix, unsigned k)
+        vector<string> startsWithKbfs(const string &prefix, unsigned k)
         {
             vector<string> matches;
             TrieNode* cur = root;
@@ -77,6 +77,37 @@ class Trie {
             }
             return matches;
         }
+
+    void dfsLex(TrieNode* u, string& cur, unsigned k, vector<string>& out) {
+        if (u->end) {
+            out.push_back(cur);
+            if (out.size() == k) return;
+        }
+        for (int i = 0; i < 26 && out.size() < k; ++i) {
+            if (u->next[i]) {
+                cur.push_back(char('a' + i));
+                dfsLex(u->next[i], cur, k, out);
+                cur.pop_back();
+                if (out.size() == k) return;
+            }
+        }
+    }
+
+    vector<string> startsWithK(const string& prefix, unsigned k) {
+        vector<string> matches;
+        if (k == 0) return matches;
+
+        TrieNode* node = root;
+        for (char c : prefix) {
+            if (c < 'a' || c > 'z') return {};
+            if (!node->next[c - 'a']) return {};
+            node = node->next[c - 'a'];
+        }
+
+        string cur = prefix;
+        dfsLex(node, cur, k, matches);
+        return matches;
+    }
 };
 
 class Solution {
