@@ -84,6 +84,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0876-hand-of-straights](https://github.com/Juskocode/leetcode/tree/master/0876-hand-of-straights) |
 | [1036-rotting-oranges](https://github.com/Juskocode/leetcode/tree/master/1036-rotting-oranges) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Juskocode/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1397-search-suggestions-system](https://github.com/Juskocode/leetcode/tree/master/1397-search-suggestions-system) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Juskocode/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/Juskocode/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Juskocode/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -160,6 +161,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0415-add-strings](https://github.com/Juskocode/leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Juskocode/leetcode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Juskocode/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1397-search-suggestions-system](https://github.com/Juskocode/leetcode/tree/master/1397-search-suggestions-system) |
 | [1524-string-matching-in-an-array](https://github.com/Juskocode/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Juskocode/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Juskocode/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -198,6 +200,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0169-majority-element](https://github.com/Juskocode/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Juskocode/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0876-hand-of-straights](https://github.com/Juskocode/leetcode/tree/master/0876-hand-of-straights) |
+| [1397-search-suggestions-system](https://github.com/Juskocode/leetcode/tree/master/1397-search-suggestions-system) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Juskocode/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Juskocode/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Juskocode/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -211,6 +214,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Juskocode/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Juskocode/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1397-search-suggestions-system](https://github.com/Juskocode/leetcode/tree/master/1397-search-suggestions-system) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -321,6 +325,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Juskocode/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Juskocode/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1397-search-suggestions-system](https://github.com/Juskocode/leetcode/tree/master/1397-search-suggestions-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Juskocode/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Juskocode/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Juskocode/leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -426,4 +431,5 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Juskocode/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [1397-search-suggestions-system](https://github.com/Juskocode/leetcode/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
