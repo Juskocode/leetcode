@@ -14,11 +14,6 @@ class Trie {
             root = new TrieNode();
         }
 
-        bool operator < (const Trie &lhs)
-        {
-            return true;
-        }
-
         void insert(const string &word)
         {
             TrieNode* cur = root;
