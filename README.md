@@ -80,6 +80,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Juskocode/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0605-can-place-flowers](https://github.com/Juskocode/leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Juskocode/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/Juskocode/leetcode/tree/master/0679-24-game) |
 | [0739-daily-temperatures](https://github.com/Juskocode/leetcode/tree/master/0739-daily-temperatures) |
 | [0876-hand-of-straights](https://github.com/Juskocode/leetcode/tree/master/0876-hand-of-straights) |
 | [1036-rotting-oranges](https://github.com/Juskocode/leetcode/tree/master/1036-rotting-oranges) |
@@ -260,6 +261,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0062-unique-paths](https://github.com/Juskocode/leetcode/tree/master/0062-unique-paths) |
 | [0415-add-strings](https://github.com/Juskocode/leetcode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Juskocode/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0679-24-game](https://github.com/Juskocode/leetcode/tree/master/0679-24-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Juskocode/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/Juskocode/leetcode/tree/master/1448-maximum-69-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Juskocode/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -434,4 +436,8 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Juskocode/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1397-search-suggestions-system](https://github.com/Juskocode/leetcode/tree/master/1397-search-suggestions-system) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/Juskocode/leetcode/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
