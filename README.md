@@ -116,6 +116,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Queue
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/Juskocode/leetcode/tree/master/0969-number-of-recent-calls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Juskocode/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
@@ -400,6 +401,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Juskocode/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0937-online-stock-span](https://github.com/Juskocode/leetcode/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/Juskocode/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Juskocode/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Monotonic Stack
 |  |
@@ -410,6 +412,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Juskocode/leetcode/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/Juskocode/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Recursion
 |  |
 | ------- |
