@@ -1,22 +1,17 @@
 class RecentCounter {
 public:
-    queue<int> q;
+    deque<int> q;
+    unsigned count = 0;
 
     RecentCounter() {
         
     }
     
     int ping(int t) {
-        int start = t - 3000, end = t;
-        unsigned count = 0;
-        q.push(t);
-        queue<int> re = q;
-
-        while (!re.empty())
-        {
-            int cur = re.front();re.pop();
-            if (cur >= start && cur <= end)
-                count++;
+        q.push_back(t);count++;
+        while (q.front() < t - 3000) {
+            q.pop_front();
+            count--;
         }
         return count;
     }
