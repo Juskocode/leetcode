@@ -1,12 +1,12 @@
 class RecentCounter {
 public:
     queue<int> calls;
-    static constexpr int dt = 3000;
     RecentCounter() {
         
     }
     
     int ping(int t) {
+        constexpr int dt = 3000;
         calls.push(t);
         while (!calls.empty() && calls.front() < t - dt)
             calls.pop();
