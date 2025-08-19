@@ -1,19 +1,16 @@
 class RecentCounter {
 public:
-    deque<int> q;
-    unsigned count = 0;
-
+    queue<int> calls;
+    static constexpr int dt = 3000;
     RecentCounter() {
         
     }
     
     int ping(int t) {
-        q.push_back(t);count++;
-        while (q.front() < t - 3000) {
-            q.pop_front();
-            count--;
-        }
-        return count;
+        calls.push(t);
+        while (!calls.empty() && calls.front() < t - dt)
+            calls.pop();
+        return calls.size();
     }
 };
 
