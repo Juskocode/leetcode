@@ -73,6 +73,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0075-sort-colors](https://github.com/Juskocode/leetcode/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/Juskocode/leetcode/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Juskocode/leetcode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Juskocode/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Juskocode/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Juskocode/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Juskocode/leetcode/tree/master/0283-move-zeroes) |
@@ -121,12 +122,14 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Juskocode/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Juskocode/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Juskocode/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Juskocode/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Juskocode/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Juskocode/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2249-count-the-hidden-sequences](https://github.com/Juskocode/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Juskocode/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -215,6 +218,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Juskocode/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/Juskocode/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/Juskocode/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1397-search-suggestions-system](https://github.com/Juskocode/leetcode/tree/master/1397-search-suggestions-system) |
 ## Divide and Conquer
