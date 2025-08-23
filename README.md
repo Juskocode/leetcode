@@ -115,6 +115,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Juskocode/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Juskocode/leetcode/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Juskocode/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Juskocode/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
@@ -273,6 +274,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0062-unique-paths](https://github.com/Juskocode/leetcode/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Juskocode/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Juskocode/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Juskocode/leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Juskocode/leetcode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Juskocode/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0679-24-game](https://github.com/Juskocode/leetcode/tree/master/0679-24-game) |
@@ -433,6 +435,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0206-reverse-linked-list](https://github.com/Juskocode/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Juskocode/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Juskocode/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Juskocode/leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Juskocode/leetcode/tree/master/0394-decode-string) |
 ## Binary Search Tree
 |  |
