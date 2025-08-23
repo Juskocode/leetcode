@@ -87,6 +87,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0876-hand-of-straights](https://github.com/Juskocode/leetcode/tree/master/0876-hand-of-straights) |
 | [1036-rotting-oranges](https://github.com/Juskocode/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Juskocode/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1319-unique-number-of-occurrences](https://github.com/Juskocode/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Juskocode/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1397-search-suggestions-system](https://github.com/Juskocode/leetcode/tree/master/1397-search-suggestions-system) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Juskocode/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -151,6 +152,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0208-implement-trie-prefix-tree](https://github.com/Juskocode/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0876-hand-of-straights](https://github.com/Juskocode/leetcode/tree/master/0876-hand-of-straights) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Juskocode/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1319-unique-number-of-occurrences](https://github.com/Juskocode/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Juskocode/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Juskocode/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Juskocode/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
