@@ -155,6 +155,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [1319-unique-number-of-occurrences](https://github.com/Juskocode/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Juskocode/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Juskocode/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Juskocode/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Juskocode/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1830-count-good-meals](https://github.com/Juskocode/leetcode/tree/master/1830-count-good-meals) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Juskocode/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -166,6 +167,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Juskocode/leetcode/tree/master/0169-majority-element) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Juskocode/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Juskocode/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## String
 |  |
@@ -182,6 +184,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [1397-search-suggestions-system](https://github.com/Juskocode/leetcode/tree/master/1397-search-suggestions-system) |
 | [1524-string-matching-in-an-array](https://github.com/Juskocode/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Juskocode/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Juskocode/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Juskocode/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Juskocode/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3207-make-three-strings-equal](https://github.com/Juskocode/leetcode/tree/master/3207-make-three-strings-equal) |
@@ -220,6 +223,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0876-hand-of-straights](https://github.com/Juskocode/leetcode/tree/master/0876-hand-of-straights) |
 | [1397-search-suggestions-system](https://github.com/Juskocode/leetcode/tree/master/1397-search-suggestions-system) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Juskocode/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Juskocode/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Juskocode/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Juskocode/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Juskocode/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
