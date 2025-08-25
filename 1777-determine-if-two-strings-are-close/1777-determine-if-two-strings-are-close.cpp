@@ -6,12 +6,11 @@ public:
         
         for (const auto& c : word1)
             f1[c - 'a']++;
-        for (const auto& c : word2)
-            f2[c - 'a']++;
-        
-        for (int i = 0; i < 26; i++)
-            if (f1[i] && !f2[i])
+        for (const auto& c : word2) {
+            if (!f1[c - 'a'])
                 return false;
+            f2[c - 'a']++;
+        }
 
         sort(f1, f1 + 26);
         sort(f2, f2 + 26);
