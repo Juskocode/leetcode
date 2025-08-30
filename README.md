@@ -72,6 +72,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0011-container-with-most-water](https://github.com/Juskocode/leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Juskocode/leetcode/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/Juskocode/leetcode/tree/master/0134-gas-station) |
+| [0149-max-points-on-a-line](https://github.com/Juskocode/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Juskocode/leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Juskocode/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Juskocode/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -150,6 +151,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Hash Table
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Juskocode/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Juskocode/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Juskocode/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0876-hand-of-straights](https://github.com/Juskocode/leetcode/tree/master/0876-hand-of-straights) |
@@ -285,6 +287,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | ------- |
 | [0043-multiply-strings](https://github.com/Juskocode/leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Juskocode/leetcode/tree/master/0062-unique-paths) |
+| [0149-max-points-on-a-line](https://github.com/Juskocode/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/Juskocode/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Juskocode/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Juskocode/leetcode/tree/master/0342-power-of-four) |
@@ -479,4 +482,8 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0679-24-game](https://github.com/Juskocode/leetcode/tree/master/0679-24-game) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Juskocode/leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
