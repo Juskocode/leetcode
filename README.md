@@ -117,6 +117,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Juskocode/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Juskocode/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Juskocode/leetcode/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Juskocode/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -236,6 +237,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Juskocode/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/Juskocode/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Juskocode/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/Juskocode/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/Juskocode/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/Juskocode/leetcode/tree/master/1397-search-suggestions-system) |
@@ -315,6 +317,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0102-binary-tree-level-order-traversal](https://github.com/Juskocode/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Juskocode/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Juskocode/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Juskocode/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Juskocode/leetcode/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Juskocode/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Juskocode/leetcode/tree/master/0904-leaf-similar-trees) |
@@ -327,6 +330,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0102-binary-tree-level-order-traversal](https://github.com/Juskocode/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Juskocode/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Juskocode/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Juskocode/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Juskocode/leetcode/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Juskocode/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Juskocode/leetcode/tree/master/0904-leaf-similar-trees) |
