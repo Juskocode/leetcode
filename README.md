@@ -198,6 +198,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Juskocode/leetcode/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Juskocode/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/Juskocode/leetcode/tree/master/0871-keys-and-rooms) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Juskocode/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -259,6 +260,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0104-maximum-depth-of-binary-tree](https://github.com/Juskocode/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Juskocode/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Juskocode/leetcode/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Juskocode/leetcode/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Juskocode/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/Juskocode/leetcode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Juskocode/leetcode/tree/master/0904-leaf-similar-trees) |
@@ -273,6 +275,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0104-maximum-depth-of-binary-tree](https://github.com/Juskocode/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Juskocode/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Juskocode/leetcode/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Juskocode/leetcode/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Juskocode/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/Juskocode/leetcode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Juskocode/leetcode/tree/master/1036-rotting-oranges) |
@@ -284,6 +287,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Juskocode/leetcode/tree/master/0547-number-of-provinces) |
 | [2793-count-the-number-of-complete-components](https://github.com/Juskocode/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Math
 |  |
