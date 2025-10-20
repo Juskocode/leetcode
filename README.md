@@ -43,9 +43,9 @@ Here's a table showcasing the problems I've currently solved:
 
 Track my progress through this section:
 
-- Total Problems Solved: 105
+- Total Problems Solved: 1783
 - Current Streak: 10
-- Longest Streak: 15
+- Longest Streak: 212
 
 ## How to Contribute 🤝
 
