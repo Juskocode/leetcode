@@ -101,6 +101,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [1833-find-the-highest-altitude](https://github.com/Juskocode/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Juskocode/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Juskocode/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Juskocode/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Juskocode/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Juskocode/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/Juskocode/leetcode/tree/master/2249-count-the-hidden-sequences) |
@@ -191,6 +192,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [1524-string-matching-in-an-array](https://github.com/Juskocode/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Juskocode/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Juskocode/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Juskocode/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Juskocode/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Juskocode/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/Juskocode/leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -323,6 +325,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | ------- |
 | [0043-multiply-strings](https://github.com/Juskocode/leetcode/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Juskocode/leetcode/tree/master/0415-add-strings) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Juskocode/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2428-equal-row-and-column-pairs](https://github.com/Juskocode/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Juskocode/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Juskocode/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
