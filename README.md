@@ -172,6 +172,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [2429-design-a-food-rating-system](https://github.com/Juskocode/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Juskocode/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Juskocode/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3678-design-task-manager](https://github.com/Juskocode/leetcode/tree/master/3678-design-task-manager) |
 ## Counting
 |  |
 | ------- |
@@ -387,6 +388,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [2429-design-a-food-rating-system](https://github.com/Juskocode/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Juskocode/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Juskocode/leetcode/tree/master/2636-maximum-subsequence-score) |
+| [3678-design-task-manager](https://github.com/Juskocode/leetcode/tree/master/3678-design-task-manager) |
 ## Shortest Path
 |  |
 | ------- |
@@ -458,6 +460,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0969-number-of-recent-calls](https://github.com/Juskocode/leetcode/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Juskocode/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/Juskocode/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Juskocode/leetcode/tree/master/3678-design-task-manager) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -485,6 +488,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/Juskocode/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/Juskocode/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/Juskocode/leetcode/tree/master/3678-design-task-manager) |
 ## Quickselect
 |  |
 | ------- |
