@@ -105,6 +105,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Juskocode/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2169-simple-bank-system](https://github.com/Juskocode/leetcode/tree/master/2169-simple-bank-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Juskocode/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Juskocode/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2249-count-the-hidden-sequences](https://github.com/Juskocode/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Juskocode/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Juskocode/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -199,6 +200,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [1777-determine-if-two-strings-are-close](https://github.com/Juskocode/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Juskocode/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Juskocode/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Juskocode/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Juskocode/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2429-design-a-food-rating-system](https://github.com/Juskocode/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2470-removing-stars-from-a-string](https://github.com/Juskocode/leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -313,6 +315,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [1448-maximum-69-number](https://github.com/Juskocode/leetcode/tree/master/1448-maximum-69-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Juskocode/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Juskocode/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Juskocode/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Juskocode/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String Matching
 |  |
@@ -326,6 +329,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [1036-rotting-oranges](https://github.com/Juskocode/leetcode/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Juskocode/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Juskocode/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Juskocode/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/Juskocode/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
