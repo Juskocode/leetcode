@@ -309,6 +309,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0679-24-game](https://github.com/Juskocode/leetcode/tree/master/0679-24-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Juskocode/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/Juskocode/leetcode/tree/master/1448-maximum-69-number) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Juskocode/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Juskocode/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Juskocode/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String Matching
