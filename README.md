@@ -103,6 +103,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Juskocode/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Juskocode/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Juskocode/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2169-simple-bank-system](https://github.com/Juskocode/leetcode/tree/master/2169-simple-bank-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Juskocode/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/Juskocode/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Juskocode/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -165,6 +166,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [1777-determine-if-two-strings-are-close](https://github.com/Juskocode/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Juskocode/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1830-count-good-meals](https://github.com/Juskocode/leetcode/tree/master/1830-count-good-meals) |
+| [2169-simple-bank-system](https://github.com/Juskocode/leetcode/tree/master/2169-simple-bank-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Juskocode/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Juskocode/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Juskocode/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
@@ -331,6 +333,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0043-multiply-strings](https://github.com/Juskocode/leetcode/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Juskocode/leetcode/tree/master/0415-add-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Juskocode/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/Juskocode/leetcode/tree/master/2169-simple-bank-system) |
 | [2428-equal-row-and-column-pairs](https://github.com/Juskocode/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Juskocode/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Juskocode/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -459,6 +462,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0208-implement-trie-prefix-tree](https://github.com/Juskocode/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0937-online-stock-span](https://github.com/Juskocode/leetcode/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Juskocode/leetcode/tree/master/0969-number-of-recent-calls) |
+| [2169-simple-bank-system](https://github.com/Juskocode/leetcode/tree/master/2169-simple-bank-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Juskocode/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/Juskocode/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Juskocode/leetcode/tree/master/3678-design-task-manager) |
