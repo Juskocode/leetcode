@@ -121,6 +121,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Juskocode/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Juskocode/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Juskocode/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3797-design-spreadsheet](https://github.com/Juskocode/leetcode/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -176,6 +177,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Juskocode/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Juskocode/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3678-design-task-manager](https://github.com/Juskocode/leetcode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Juskocode/leetcode/tree/master/3797-design-spreadsheet) |
 ## Counting
 |  |
 | ------- |
@@ -205,6 +207,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [2429-design-a-food-rating-system](https://github.com/Juskocode/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2470-removing-stars-from-a-string](https://github.com/Juskocode/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3207-make-three-strings-equal](https://github.com/Juskocode/leetcode/tree/master/3207-make-three-strings-equal) |
+| [3797-design-spreadsheet](https://github.com/Juskocode/leetcode/tree/master/3797-design-spreadsheet) |
 ## Graph
 |  |
 | ------- |
@@ -331,6 +334,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Juskocode/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Juskocode/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2428-equal-row-and-column-pairs](https://github.com/Juskocode/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [3797-design-spreadsheet](https://github.com/Juskocode/leetcode/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
@@ -470,6 +474,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [2413-smallest-number-in-infinite-set](https://github.com/Juskocode/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/Juskocode/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Juskocode/leetcode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Juskocode/leetcode/tree/master/3797-design-spreadsheet) |
 ## Monotonic Stack
 |  |
 | ------- |
