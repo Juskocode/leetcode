@@ -213,6 +213,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Graph
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/Juskocode/leetcode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/Juskocode/leetcode/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Juskocode/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/Juskocode/leetcode/tree/master/0871-keys-and-rooms) |
@@ -221,6 +222,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Topological Sort
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/Juskocode/leetcode/tree/master/0310-minimum-height-trees) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Juskocode/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Two Pointers
 |  |
@@ -275,6 +277,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0104-maximum-depth-of-binary-tree](https://github.com/Juskocode/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Juskocode/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Juskocode/leetcode/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Juskocode/leetcode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/Juskocode/leetcode/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Juskocode/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/Juskocode/leetcode/tree/master/0871-keys-and-rooms) |
@@ -290,6 +293,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0104-maximum-depth-of-binary-tree](https://github.com/Juskocode/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Juskocode/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Juskocode/leetcode/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Juskocode/leetcode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/Juskocode/leetcode/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Juskocode/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/Juskocode/leetcode/tree/master/0871-keys-and-rooms) |
