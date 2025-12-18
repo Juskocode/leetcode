@@ -545,4 +545,8 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Juskocode/leetcode/tree/master/0149-max-points-on-a-line) |
+## Concurrency
+|  |
+| ------- |
+| [1114-print-in-order](https://github.com/Juskocode/leetcode/tree/master/1114-print-in-order) |
 <!---LeetCode Topics End-->
