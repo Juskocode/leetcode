@@ -271,6 +271,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0004-median-of-two-sorted-arrays](https://github.com/Juskocode/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Juskocode/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Juskocode/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/Juskocode/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -285,6 +286,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0904-leaf-similar-trees](https://github.com/Juskocode/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Juskocode/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Juskocode/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1382-balance-a-binary-search-tree](https://github.com/Juskocode/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Juskocode/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Juskocode/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -368,6 +370,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0904-leaf-similar-trees](https://github.com/Juskocode/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Juskocode/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Juskocode/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1382-balance-a-binary-search-tree](https://github.com/Juskocode/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Juskocode/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -383,6 +386,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0904-leaf-similar-trees](https://github.com/Juskocode/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Juskocode/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Juskocode/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1382-balance-a-binary-search-tree](https://github.com/Juskocode/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Juskocode/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Greedy
 |  |
@@ -392,6 +396,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0334-increasing-triplet-subsequence](https://github.com/Juskocode/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Juskocode/leetcode/tree/master/0605-can-place-flowers) |
 | [0876-hand-of-straights](https://github.com/Juskocode/leetcode/tree/master/0876-hand-of-straights) |
+| [1382-balance-a-binary-search-tree](https://github.com/Juskocode/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Juskocode/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/Juskocode/leetcode/tree/master/1448-maximum-69-number) |
 | [2636-maximum-subsequence-score](https://github.com/Juskocode/leetcode/tree/master/2636-maximum-subsequence-score) |
@@ -517,6 +522,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Juskocode/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Juskocode/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Ordered Set
 |  |
 | ------- |
