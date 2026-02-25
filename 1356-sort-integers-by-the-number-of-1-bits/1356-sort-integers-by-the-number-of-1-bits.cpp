@@ -6,7 +6,7 @@ public:
     // 0010 -> if its 1 (0010 & 0001) -> 0
     // 0001 -> if its 1 (0001 & 0001) -> 1
     // 6 -> 0110
-    int computeNbits(const int &val) {
+    static int computeNbits(const int &val) {
         int p = val, b = 0;
         while (p) {
             if (p & 1)
@@ -16,18 +16,16 @@ public:
         return b;   
     }
 
+    static bool cmp(const int &a, const int &b) {
+        if (computeNbits(a) == computeNbits(b))
+            return a < b;
+        return computeNbits(a) < computeNbits(b);
+    }
+
     vector<int> sortByBits(vector<int>& arr) {
-        vector<pair<int, int>> container;
-        vector<int> res;
-
-        for (const int & val : arr)
-            container.push_back({computeNbits(val), val});
+       
+        sort(arr.begin(), arr.end(), cmp);
         
-        sort(container.begin(), container.end());
-
-        for (const auto & val : container)
-            res.push_back(val.second);
-        
-        return res;
+        return arr;
     }
 };
