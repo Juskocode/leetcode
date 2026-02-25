@@ -20,10 +20,8 @@ public:
         vector<pair<int, int>> container;
         vector<int> res;
 
-        for (const int & val : arr) {
+        for (const int & val : arr)
             container.push_back({computeNbits(val), val});
-            cout << computeNbits(val) << " " << val << endl;
-        }
         
         sort(container.begin(), container.end());
 
