@@ -127,6 +127,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Juskocode/leetcode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Juskocode/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Juskocode/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Juskocode/leetcode/tree/master/0342-power-of-four) |
@@ -195,6 +196,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Juskocode/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Juskocode/leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Juskocode/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Juskocode/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Juskocode/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -325,6 +327,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | ------- |
 | [0043-multiply-strings](https://github.com/Juskocode/leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Juskocode/leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Juskocode/leetcode/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/Juskocode/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/Juskocode/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Juskocode/leetcode/tree/master/0326-power-of-three) |
@@ -358,6 +361,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Juskocode/leetcode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Juskocode/leetcode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Juskocode/leetcode/tree/master/0415-add-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Juskocode/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/Juskocode/leetcode/tree/master/2169-simple-bank-system) |
