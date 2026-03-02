@@ -131,6 +131,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0222-count-complete-tree-nodes](https://github.com/Juskocode/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Juskocode/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Juskocode/leetcode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Juskocode/leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Juskocode/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Juskocode/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Juskocode/leetcode/tree/master/0868-binary-gap) |
@@ -561,6 +562,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/Juskocode/leetcode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/Juskocode/leetcode/tree/master/0679-24-game) |
 ## Geometry
 |  |
