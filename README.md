@@ -206,6 +206,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0394-decode-string](https://github.com/Juskocode/leetcode/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/Juskocode/leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Juskocode/leetcode/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/Juskocode/leetcode/tree/master/0696-count-binary-substrings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Juskocode/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1397-search-suggestions-system](https://github.com/Juskocode/leetcode/tree/master/1397-search-suggestions-system) |
 | [1524-string-matching-in-an-array](https://github.com/Juskocode/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -243,6 +244,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0345-reverse-vowels-of-a-string](https://github.com/Juskocode/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Juskocode/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Juskocode/leetcode/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/Juskocode/leetcode/tree/master/0696-count-binary-substrings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Juskocode/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Juskocode/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Juskocode/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
