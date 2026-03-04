@@ -7,7 +7,6 @@ public:
         for (int j = 0; j < s.length(); j++) {
             // Track balance: +1 for '1', -1 for '0'
             count += (s[j] == '1') ? 1 : -1;
-            cout << s.substr(i, j) << endl;
             // Found a balanced chunk when count returns to 0
             if (count == 0) {
                 // Recursively maximize inner part, wrap with 1...0
@@ -20,9 +19,7 @@ public:
         sort(res.begin(), res.end(), greater<string>());
         string result;
         for (const string& str : res) {
-            cout << result << " ";
             result += str;
-            cout << " + (" << str << ") = " << result << endl;
         }
         return result;
     }
