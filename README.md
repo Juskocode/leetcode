@@ -207,6 +207,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0415-add-strings](https://github.com/Juskocode/leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Juskocode/leetcode/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/Juskocode/leetcode/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/Juskocode/leetcode/tree/master/0761-special-binary-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Juskocode/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1397-search-suggestions-system](https://github.com/Juskocode/leetcode/tree/master/1397-search-suggestions-system) |
 | [1524-string-matching-in-an-array](https://github.com/Juskocode/leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -256,6 +257,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0075-sort-colors](https://github.com/Juskocode/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Juskocode/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Juskocode/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0761-special-binary-string](https://github.com/Juskocode/leetcode/tree/master/0761-special-binary-string) |
 | [0876-hand-of-straights](https://github.com/Juskocode/leetcode/tree/master/0876-hand-of-straights) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Juskocode/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1397-search-suggestions-system](https://github.com/Juskocode/leetcode/tree/master/1397-search-suggestions-system) |
@@ -283,6 +285,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0004-median-of-two-sorted-arrays](https://github.com/Juskocode/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Juskocode/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Juskocode/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0761-special-binary-string](https://github.com/Juskocode/leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Juskocode/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
