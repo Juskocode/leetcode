@@ -223,6 +223,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [2429-design-a-food-rating-system](https://github.com/Juskocode/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2470-removing-stars-from-a-string](https://github.com/Juskocode/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3207-make-three-strings-equal](https://github.com/Juskocode/leetcode/tree/master/3207-make-three-strings-equal) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Juskocode/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3797-design-spreadsheet](https://github.com/Juskocode/leetcode/tree/master/3797-design-spreadsheet) |
 ## Graph
 |  |
@@ -327,6 +328,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Juskocode/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Juskocode/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2793-count-the-number-of-complete-components](https://github.com/Juskocode/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Juskocode/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union Find
 |  |
 | ------- |
@@ -352,6 +354,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Juskocode/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Juskocode/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Juskocode/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Juskocode/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## String Matching
 |  |
 | ------- |
@@ -554,6 +557,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [2023-design-movie-rental-system](https://github.com/Juskocode/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Juskocode/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/Juskocode/leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Juskocode/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3678-design-task-manager](https://github.com/Juskocode/leetcode/tree/master/3678-design-task-manager) |
 ## Quickselect
 |  |
@@ -581,4 +585,8 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/Juskocode/leetcode/tree/master/1114-print-in-order) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/Juskocode/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
