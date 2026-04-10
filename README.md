@@ -70,6 +70,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Juskocode/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Juskocode/leetcode/tree/master/0011-container-with-most-water) |
+| [0056-merge-intervals](https://github.com/Juskocode/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Juskocode/leetcode/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/Juskocode/leetcode/tree/master/0134-gas-station) |
 | [0149-max-points-on-a-line](https://github.com/Juskocode/leetcode/tree/master/0149-max-points-on-a-line) |
@@ -260,6 +261,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Juskocode/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Juskocode/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Juskocode/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Juskocode/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
