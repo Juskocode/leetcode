@@ -101,6 +101,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [1798-max-number-of-k-sum-pairs](https://github.com/Juskocode/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1830-count-good-meals](https://github.com/Juskocode/leetcode/tree/master/1830-count-good-meals) |
 | [1833-find-the-highest-altitude](https://github.com/Juskocode/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Juskocode/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1912-design-movie-rental-system](https://github.com/Juskocode/leetcode/tree/master/1912-design-movie-rental-system) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Juskocode/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2023-design-movie-rental-system](https://github.com/Juskocode/leetcode/tree/master/2023-design-movie-rental-system) |
@@ -369,6 +370,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | ------- |
 | [0221-maximal-square](https://github.com/Juskocode/leetcode/tree/master/0221-maximal-square) |
 | [1036-rotting-oranges](https://github.com/Juskocode/leetcode/tree/master/1036-rotting-oranges) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Juskocode/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Juskocode/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Juskocode/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Juskocode/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
