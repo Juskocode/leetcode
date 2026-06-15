@@ -71,6 +71,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [0001-two-sum](https://github.com/Juskocode/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Juskocode/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Juskocode/leetcode/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/Juskocode/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Juskocode/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Juskocode/leetcode/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/Juskocode/leetcode/tree/master/0134-gas-station) |
@@ -171,6 +172,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Juskocode/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Juskocode/leetcode/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/Juskocode/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Juskocode/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Juskocode/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -205,6 +207,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Juskocode/leetcode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Juskocode/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Juskocode/leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Juskocode/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Juskocode/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -264,6 +267,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Juskocode/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Juskocode/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Juskocode/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Juskocode/leetcode/tree/master/0169-majority-element) |
