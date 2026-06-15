@@ -68,6 +68,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Juskocode/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Juskocode/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Juskocode/leetcode/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/Juskocode/leetcode/tree/master/0056-merge-intervals) |
@@ -169,6 +170,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Juskocode/leetcode/tree/master/0001-two-sum) |
 | [0149-max-points-on-a-line](https://github.com/Juskocode/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/Juskocode/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Juskocode/leetcode/tree/master/0208-implement-trie-prefix-tree) |
