@@ -237,6 +237,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [3207-make-three-strings-equal](https://github.com/Juskocode/leetcode/tree/master/3207-make-three-strings-equal) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Juskocode/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3797-design-spreadsheet](https://github.com/Juskocode/leetcode/tree/master/3797-design-spreadsheet) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Juskocode/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Graph
 |  |
 | ------- |
@@ -464,10 +465,12 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [2553-total-cost-to-hire-k-workers](https://github.com/Juskocode/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Juskocode/leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3678-design-task-manager](https://github.com/Juskocode/leetcode/tree/master/3678-design-task-manager) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Juskocode/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Juskocode/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Juskocode/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Database
 |  |
 | ------- |
@@ -607,4 +610,8 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Juskocode/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Juskocode/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
