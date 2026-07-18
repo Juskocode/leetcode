@@ -129,6 +129,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Juskocode/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Juskocode/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3797-design-spreadsheet](https://github.com/Juskocode/leetcode/tree/master/3797-design-spreadsheet) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Juskocode/leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -159,6 +160,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Juskocode/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Juskocode/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Juskocode/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Juskocode/leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -169,6 +171,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [1833-find-the-highest-altitude](https://github.com/Juskocode/leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2249-count-the-hidden-sequences](https://github.com/Juskocode/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Juskocode/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Juskocode/leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,6 +201,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [2888-minimum-index-of-a-valid-split](https://github.com/Juskocode/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3678-design-task-manager](https://github.com/Juskocode/leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Juskocode/leetcode/tree/master/3797-design-spreadsheet) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Juskocode/leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Counting
 |  |
 | ------- |
@@ -617,4 +621,8 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Juskocode/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Juskocode/leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 <!---LeetCode Topics End-->
