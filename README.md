@@ -205,6 +205,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Juskocode/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Juskocode/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Juskocode/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Juskocode/leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## String
 |  |
 | ------- |
@@ -237,6 +238,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [3207-make-three-strings-equal](https://github.com/Juskocode/leetcode/tree/master/3207-make-three-strings-equal) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Juskocode/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3797-design-spreadsheet](https://github.com/Juskocode/leetcode/tree/master/3797-design-spreadsheet) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Juskocode/leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Juskocode/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Graph
 |  |
@@ -370,6 +372,7 @@ Let's solve problems, learn, and grow together! Happy coding! 😊✨
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Juskocode/leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Juskocode/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Juskocode/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Juskocode/leetcode/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## String Matching
 |  |
 | ------- |
